@@ -33,7 +33,7 @@ python preprocess.py
 ```bash
 ./tuning.sh
 ```
-- To train of evaluate the fused model:
+- To train or evaluate the fused model:
 ```bash
 cd fusion
 
